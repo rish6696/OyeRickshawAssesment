@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'poppinsSemiBold';
+    src: url('../fonts/Poppins-SemiBold.ttf');
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: transparent !important;
+    color: black !important;
+}
+
+.btn-primary:hover {
+    background-color: #368afc !important;
+    color: white !important ;
+}
+
+.reject-button:hover{
+    background-color: red !important;
+}
+
+.approve-button:hover{
+    background-color: green !important;
+}
+
+body{
+    padding-top: 80px;
+}
