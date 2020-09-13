@@ -2,9 +2,7 @@
 
 Assignment for Interview Assessment of OYE RICKSHAW
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## https://vigilant-einstein-db3d8c.netlify.app/ ## app Link 
 
 ### Prerequisites
 
@@ -17,10 +15,6 @@ npm intsall
 
 
 
-
-## Deployment
-
-deployed on AWS ec2 
 
 ## Built With
 
